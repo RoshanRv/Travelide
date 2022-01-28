@@ -1,0 +1,16 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.gr{
+    display: flex;
+    flex-wrap: wrap;
+    /* grid-template-columns: repeat(auto,100px); */
+}
+
+.bg{
+    background-color: aqua;
+    background: aqua;
+}
