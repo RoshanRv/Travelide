@@ -42,7 +42,7 @@ const Map = ({setCoordinates, setBounds, coordinates,places,isMapLoading}) => {
             </div>)
           )))}
 
-      </GoogleMapReact>:<Spinner />}
+      </GoogleMapReact>:<div ><h1 className="md:hidden text-xl">Turn On Your GPS and Refresh to Get Best Places Near You</h1><div className="hidden md:block"><Spinner /></div></div>}
 
   </section>)
 };
