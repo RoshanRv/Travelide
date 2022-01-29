@@ -1,8 +1,8 @@
-# TravelIde
+# Travelide
 
 A Guide for the Travellers, who wants to Explore More Places.
 
-![TravelIde_preview](https://user-images.githubusercontent.com/75238302/149731588-167977ec-1b1e-4b38-a591-96be8db59295.png)
+![TravelIde Preview](https://user-images.githubusercontent.com/75238302/151647605-02863138-9087-43a0-85f1-3bb6ff5a4bdd.png)
 
 ## General Info
 
